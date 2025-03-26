@@ -1,4 +1,10 @@
 {
+    "routes": [
+        {
+            "route": "/.auth/login/aad/callback",
+            "allowedRoles": ["anonymous", "authenticated"]
+        }
+    ],
     "auth": {
         "identityProviders": {
             "azureActiveDirectory": {
