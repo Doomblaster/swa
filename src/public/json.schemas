@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/staticwebapp.config.json"
+      ],
+      "url": "https://json.schemastore.org/staticwebapp.config.json"
+    }
+  ]
+}
